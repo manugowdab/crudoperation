@@ -56,3 +56,11 @@ This project is a simple web application for managing student information. It fe
 
 7. Edit the details of an existing sutdent by clicking the "Edit" link next to the customer's information.
 8. Delete a student by clicking the "Delete" link .
+
+
+Above java code order:
+Project Structure:
+ - student_mod.java(Model Class)
+ - student.java(Interface of Data Access object)
+ - Student_imp.java(implemention of Data Access object)
+ - studentdetails.java(Server connection and business logic
